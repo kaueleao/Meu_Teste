@@ -7,6 +7,7 @@
 
 import SwiftUI
 // Teste
+// Descrição da branch de teste
 @main
 struct Meu_TesteApp: App {
     var body: some Scene {
